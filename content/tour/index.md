@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: slider
+    id: digital-transformation
     content:
       slides:
       - title: 👋 Welcome to the group
