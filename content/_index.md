@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-         <span style="color: #a00088ff">LEONG Research Group</span>
+         LEONG Research Group
       image:
         filename: welcome.jpg
       text: |

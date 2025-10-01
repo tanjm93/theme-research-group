@@ -1,0 +1,96 @@
+---
+title: Tour
+date: 2022-10-24
+
+type: landing
+
+sections:
+  - block: markdown
+    content:
+      title: '<span style="color: white;">Research Overview</span>'
+      subtitle: ''
+      text: Much of our work focuses on developing chemistry-aware AI systems for electrochemical processes, moving beyond black-box approaches toward mechanism-informed, predictive workflows. Our long-term goal is to enable AI scientists as collaborative partners in accelerating solutions to global energy and environmental challenges.
+    design:
+      columns: '1'
+      background:
+        image:
+          filename: coders.jpg
+          filters:
+            brightness: 0.7  # Darken image so text is readable
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true  # Use light text on dark background
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: 'text-light'
+
+  # - block: markdown
+  #   content:
+  #     title: 'Current Research Directions'
+  #     subtitle: ''
+  #     text: ''
+  #   design:
+  #     columns: '1'
+  #     spacing:
+  #       padding: ['40px', '0', '20px', '0']
+
+  - block: markdown
+    id: digital-transformation
+    content:
+      title: ''
+      text: |
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; max-width: 1200px; margin: 40px auto;">
+          <div>
+            <img src="/media/data_digitalization.jpg" alt="Data Digitalization" style="width: 100%; height: auto; border-radius: 8px;">
+          </div>
+          <div>
+            <h2 style="margin-top: 0">Data Digitalization</h2>
+            <p style="font-size: 16px;">The full potential of knowledge-intensive systems relies on access to large, high-quality datasets, yet much of the chemical and materials literature remains locked in analog or legacy formats. Data digitization, the process of converting chemical information into machine-readable formats, has become critical for enabling AI systems to leverage this wealth of knowledge. By creating structured, accessible digital repositories, we can accelerate discovery and support knowledge transfer from scientists to AI agents, forming the foundation for a collective intelligence framework to aggregate and analyze the field’s accumulated knowledge at scale. Key research foci include 1) enhancing machine perception of scientific graphics to extract structured, machine-readable data from various graphical modalities; 2) integration of agentic systems and LLMs/VLMs to reason over multimodal data and infer missing details; 3) developing metrics to assess reproducibility and reusability of digitized data. We help lead the Chemia Sapiens Alliance , advancing collaborative efforts to unify and democratize chemical and materials knowledge.</p>
+          </div>
+        </div>
+
+        <style>
+        @media (max-width: 768px) {
+          div[style*="grid-template-columns: 1fr 1fr"] {
+            grid-template-columns: 1fr !important;
+          }
+        }
+        </style>
+    design:
+      columns: '1'
+
+  - block: markdown
+    id: electrochemistry
+    content:
+      title: ''
+      text: |
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; max-width: 1200px; margin: 40px auto;">
+          <div>
+            <img src="/media/digitial-electrosynthesis.jpeg" alt="Digital Electrosynthesis" style="width: 100%; height: auto; border-radius: 8px;">
+          </div>
+          <div>
+            <h2 style="margin-top: 0;">Digital Electrosynthesis</h2>
+            <p style="font-size: 16px;"> Organic electrosynthesis offers unique advantages, including enhanced selectivity, higher reactivity, and access to transformations under milder conditions. Yet, reaction discovery remains largely reliant on trial-and-error, and relatively few reactions achieve broad adoption or industrial relevance to date. Our group is interested in integrating data-driven and AI-enabled approaches to transform electrosynthesis research. Key research areas include: 1) discovering reaction design heuristics at scale; 2) building ML models that transfer insights from conventional organic synthesis to electrochemical reactions; (3) developing descriptors that effectively capture electrosynthesis conditions for improved model performance; and (4) predicting optimal electrosynthesis reaction conditions. Our work spans all stages of electrosynthesis research, from initial discovery to optimization, reactor design, and scale translation.</p>
+          </div>
+        </div>
+    design:
+      columns: '1'
+
+  - block: markdown
+    id: automation
+    content:
+      title: ''
+      text: |
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; max-width: 1200px; margin: 40px auto;">
+          <div>
+            <img src="/media/self-driving-laboratories.jpeg" alt="Mechanism-Guided Self-Driving Laboratories" style="width: 100%; height: auto; border-radius: 8px;">
+          </div>
+          <div>
+            <h2 style="margin-top: 0;">Mechanism-Guided Self-Driving Laboratories</h2>
+            <p style="font-size: 16px;"> Our group is interested in developing chemistry-aware AI systems to guide rational, mechanism-driven reaction discovery and catalyst design, rather than relying on black-box predictions. Looking at heterogeneous electrocatalysts in general, our research focuses on, but is not limited to: 1) autonomous machine reasoning over multimodal experimental data, including operando spectroscopy, electroanalysis, and product characterization, to resolve reaction pathways and kinetics; 2) high-throughput synthesis of model heterogeneous electrocatalysts, such as nanocrystals with tunable surface facets, to enable large-scale study of surface-reactivity relationships; 3) AI models capable of mechanistic reasoning that generate hypotheses and suggest targeted experiments to efficiently resolve reaction mechanisms; and 4) development of self-driving laboratories that autonomous mechanistic insight generation with iterative experimental design.</p>
+          </div>
+        </div>
+    design:
+      columns: '1'
+---

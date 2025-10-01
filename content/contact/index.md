@@ -5,47 +5,29 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: contact
+  - block: markdown
     content:
-      title: Contact
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      title: 'Undergraduates & Prospective Students'
+      text: |
+        Interested undergraduates and prospective students are welcome to reach out to Shi Xuan via email ([shixuan.leong@ntu.edu.sg](mailto:shixuan.leong@ntu.edu.sg)).
+
+        **See also:** [NTU main page](https://www.ntu.edu.sg/) | [CCEB main page](https://www.ntu.edu.sg/cceb) | [NPGS](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs) | [NTU Research Scholarship](https://www.ntu.edu.sg/nie/admissions/graduate-education/scholarships-awards/nanyang-technological-university-research-scholarship) | [SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) | [A*STAR Graduate Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore)
     design:
       columns: '1'
+      spacing:
+        padding: ['40px', '0', '20px', '0']
+
+  - block: markdown
+    content:
+      title: 'Postdoc Candidates'
+      text: |
+        Postdoc candidates with expertise in organic electrosynthesis, electrocatalysis, artificial intelligence and/or laboratory automation should email Shi Xuan directly with a CV ([shixuan.leong@ntu.edu.sg](mailto:shixuan.leong@ntu.edu.sg)).
+
+        **See also:** [LKY PDF](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)) | [NTU PPF](https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)) | [AI4Science Fellowship]()
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '40px', '0']
 
   - block: markdown
     content:
@@ -55,7 +37,7 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
+        image:
           filename: contact.jpg
           filters:
             brightness: 1
