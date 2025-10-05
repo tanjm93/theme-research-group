@@ -11,13 +11,13 @@ sections:
       text: |
         <div class="gallery-grid">
           <div class="gallery-item">
-            <img src="/media/welcome.jpg" alt="Gallery image 1">
+            <img src="../media/welcome.jpg" alt="Gallery image 1">
           </div>
           <div class="gallery-item">
-            <img src="/media/coders.jpg" alt="Gallery image 2">
+            <img src="../media/coders.jpg" alt="Gallery image 2">
           </div>
           <div class="gallery-item">
-            <img src="/media/contact.jpg" alt="Gallery image 3">
+            <img src="../media/contact.jpg" alt="Gallery image 3">
           </div>
           <!-- Add more gallery items here -->
         </div>

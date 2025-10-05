@@ -23,18 +23,27 @@ sections:
       text: |
         <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; max-width: 1200px; margin: 0 auto;">
           <div style="text-align: center;">
-            <a href="tour#digital-transformation">
-              <img src="/media/data_digitalization.jpg" alt="Data & Digitalization" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s ease;">
+            <a href="research#digital-transformation" style="position: relative; display: block;">
+              <img src="media/data_digitalization.jpg" alt="Data Digitalization" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s ease;">
+              <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1rem; font-weight: bold; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); white-space: nowrap;background: rgba(0,0,0,0.5); padding: 1px 10px;">
+                Data Digitalization
+              </div>
             </a>
           </div>
           <div style="text-align: center;">
-            <a href="tour#electrochemistry">
-              <img src="/media/digitial-electrosynthesis.jpeg" alt="Digital Electrosynthesis" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s ease;">
+            <a href="research#electrochemistry" style="position: relative; display: block;">
+              <img src="media/digitial-electrosynthesis.jpg" alt="Digital Electrosynthesis" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s ease;">
+              <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1rem; font-weight: bold; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); white-space: nowrap; background: rgba(0,0,0,0.5); padding: 1px 10px;">
+                Digital Electrosynthesis
+              </div>
             </a>
           </div>
           <div style="text-align: center;">
-            <a href="tour#automation">
-              <img src="/media/self-driving-laboratories.jpeg" alt="Self-Driving Laboratories" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s ease;">
+            <a href="research#automation" style="position: relative; display: block;">
+              <img src="media/self-driving-laboratories.jpg" alt="Mechanism-Guided Self-Driving Laboratories" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s ease;">
+              <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1rem; font-weight: bold; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); text-align: center; background: rgba(0,0,0,0.5); padding: 1px 10px; width: 95%; line-height: 1.2;">
+                Mechanism-Guided Self-Driving Laboratories
+              </div>
             </a>
           </div>
         </div>
@@ -54,15 +63,15 @@ sections:
 
   - block: markdown
     content:
-      title: "We are recruiting! 👩‍🔬👨‍🔬"
+      title: "We are recruiting! 👩🏻‍🔬🧑🏻‍🔬"
       text: |
-        <div style="text-align: center; font-size: 1.2rem; padding: 20px;">
-        We will have open positions for undergraduates, graduate students and postdocs in spring 2026!
+        <div style="text-align: center; font-size: 0.9rem; padding: 20px;">
+        We will have <a href="contact">open positions</a> for undergraduates, graduate students and postdocs in spring 2026!
         </div>
     design:
       columns: '1'
       background:
-        color: '#f0f8ff'
+        color: 
       spacing:
         padding: ['30px', '0', '30px', '0']
 
@@ -132,7 +141,7 @@ sections:
       title: Latest Publications
       subtitle:
       text: |
-        <div style="text-align: center; font-size: 1.2rem; padding: 20px;">Watch this space!</div>
+        <div style="text-align: center; font-size: 0.9rem; padding: 20px;">Watch this space!</div>
     design:
       columns: '1'
 ---
