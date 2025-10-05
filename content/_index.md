@@ -13,7 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        <div style="font-size: 0.9rem;">
+        <div style="font-size: 1rem;">
         We are a  multidisciplinary research team that works at the interface of chemistry, computer science, data science, artificial intelligence, and automation to develop intelligent, adaptive tools and systems that enable autonomous reaction discovery and informatics.
         </div>
 
@@ -65,7 +65,7 @@ sections:
     content:
       title: "We are recruiting! 👩🏻‍🔬🧑🏻‍🔬"
       text: |
-        <div style="text-align: center; font-size: 0.9rem; padding: 20px;">
+        <div style="text-align: center; font-size: 1rem; padding: 20px;">
         We will have <a href="contact">open positions</a> for undergraduates, graduate students and postdocs in spring 2026!
         </div>
     design:
@@ -141,7 +141,7 @@ sections:
       title: Latest Publications
       subtitle:
       text: |
-        <div style="text-align: center; font-size: 0.9rem; padding: 20px;">Watch this space!</div>
+        <div style="text-align: center; font-size: 1rem; padding: 20px;">Watch this space!</div>
     design:
       columns: '1'
 ---

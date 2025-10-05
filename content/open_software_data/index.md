@@ -9,7 +9,7 @@ sections:
     content:
       title: Open Software & Data
       text: |
-        <div style="font-size: 1.1rem; margin-bottom: 30px; text-align: center;">
+        <div style="font-size: 1.1rem; margin-bottom: 30px; text-align: center;color: #666;">
         Stay tuned for our tools and datasets!
         </div>
     design:

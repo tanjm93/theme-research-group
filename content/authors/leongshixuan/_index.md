@@ -12,8 +12,7 @@ superuser: true
 # Role/position
 role: |
   shixuan.leong@ntu.edu.sg  
-  Researcher ID: XXXXX  
-  ORCID: XXXXXXX
+  ORCID: 0000-0001-8130-0897
 
 # Organizations/Affiliations
 organizations:
