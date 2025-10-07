@@ -79,6 +79,45 @@
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 0.95)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
 }
 
+// Mobile dropdown menu (hamburger menu)
+.navbar-collapse {
+  background-color: var(--brand-purple) !important;
+
+  // Add padding for mobile menu
+  @media (max-width: 991px) {
+    padding: 1rem;
+    margin-top: 0.5rem;
+    border-radius: 4px;
+  }
+}
+
+// Mobile menu items styling
+@media (max-width: 991px) {
+  .navbar-light .navbar-nav .nav-link {
+    padding: 0.75rem 1rem;
+    border-radius: 4px;
+
+    &:hover, &:focus {
+      background-color: var(--brand-purple-light) !important;
+    }
+
+    // Remove desktop underline effect on mobile
+    &::after {
+      display: none;
+    }
+  }
+
+  // Active link on mobile
+  .navbar-light .navbar-nav .active > .nav-link,
+  .navbar-light .navbar-nav .nav-link.active {
+    background-color: var(--brand-purple-dark) !important;
+
+    &::after {
+      display: none;
+    }
+  }
+}
+
 // ==========================================
 // FOOTER - Purple Background
 // ==========================================
@@ -86,6 +125,21 @@
 footer {
   background-color: var(--brand-purple) !important;
   color: rgba(255, 255, 255, 0.95) !important;
+  padding: 0.5rem 0 !important;
+  margin: 0 !important;
+
+  // Remove excess spacing from child elements
+  p, div {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  // Remove padding from any container inside footer
+  .container,
+  .container-fluid {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
 
   p, span, a {
     color: rgba(255, 255, 255, 0.95) !important;
@@ -147,7 +201,7 @@ h1, h2, h3, h4, h5, h6 {
 // ALTERNATING SECTION BACKGROUNDS - Purple Tint
 // ==========================================
 :root {
-  --section-bg-light-purple: #F8F5FA;  // Very light lavender tint
+  --section-bg-light-purple: #FEF5F8;  // Very light lavender tint
   --section-bg-white: #FFFFFF;
 }
 
@@ -164,8 +218,8 @@ section,
   }
 }
 
-// Ensure proper padding for visual separation
-section,
+// Ensure proper padding for visual separation (exclude footer)
+section:not(.page-footer),
 .home-section,
 .wg-block {
   padding-top: 3rem;
