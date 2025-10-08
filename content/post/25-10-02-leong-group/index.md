@@ -1,6 +1,6 @@
 ---
-title: LEONG Group Opens!
-date: 2025-10-01
+title: LEONG Research Group Opens!
+date: 2025-10-06
 image:
   focal_point: 'top'
 ---

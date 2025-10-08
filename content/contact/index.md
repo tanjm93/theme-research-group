@@ -11,7 +11,7 @@ sections:
       text: |
         <h3 style="text-align: center;">Undergraduates & Prospective Students</h3>
 
-        Interested undergraduates and prospective students are welcome to reach out to Shi Xuan via email ([shixuan.leong@ntu.edu.sg](mailto:shixuan.leong@ntu.edu.sg)).
+        Interested undergraduates and prospective Ph.D. students are welcome to reach out to Shi Xuan via email ([shixuan.leong@ntu.edu.sg](mailto:shixuan.leong@ntu.edu.sg)).
 
         **See also:** [NTU main page](https://www.ntu.edu.sg/) | [CCEB main page](https://www.ntu.edu.sg/cceb) | [NPGS](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs) | [NTU Research Scholarship](https://www.ntu.edu.sg/nie/admissions/graduate-education/scholarships-awards/nanyang-technological-university-research-scholarship) | [SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) | [A*STAR Graduate Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore)
     design:
@@ -25,7 +25,7 @@ sections:
       text: |
         <h3 style="text-align: center;">Postdoc Candidates</h3>
         
-        Postdoc candidates with expertise in organic electrosynthesis, electrocatalysis, artificial intelligence and/or laboratory automation should email Shi Xuan directly with a CV ([shixuan.leong@ntu.edu.sg](mailto:shixuan.leong@ntu.edu.sg)).
+        Postdoc candidates with expertise in organic electrosynthesis, electrocatalysis, artificial intelligence and/or laboratory automation are welcome to email Shi Xuan directly with a CV ([shixuan.leong@ntu.edu.sg](mailto:shixuan.leong@ntu.edu.sg)).
 
         **See also:** [LKY PDF](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)) | [NTU PPF](https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)) | [The Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship)
     design:
