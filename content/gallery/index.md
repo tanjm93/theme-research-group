@@ -72,11 +72,29 @@ sections:
             gap: 15px;
           }
         }
+
         /* Mobile view - 1 column */
         @media (max-width: 480px) {
           .gallery-grid {
-            grid-template-columns: 1fr;
-            gap: 15px;
+            grid-template-columns: 1fr !important;
+            gap: 20px !important;
+            display: flex !important;
+            flex-direction: column !important;
+          }
+
+          .gallery-item {
+            aspect-ratio: auto !important;
+            height: auto !important;
+            width: 100% !important;
+            position: relative !important;
+          }
+
+          .gallery-item img,
+          .gallery-item video {
+            position: relative !important;
+            width: 100% !important;
+            height: auto !important;
+            display: block !important;
           }
         }
         </style>
