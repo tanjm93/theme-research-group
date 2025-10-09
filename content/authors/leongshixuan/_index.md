@@ -79,11 +79,11 @@ user_groups:
 ## Biography
 
 <div style="text-align: justify; font-size: 18px;">
-Shi Xuan completed her B.Sc. in Chemistry under the CN Yang Scholars Programme at Nanyang Technological University (NTU), Singapore, where she undertook research in multiple laboratories, including those of Prof. Soo Han Sen, Prof. Martin Pumera and Prof. Frank Marken (University of Bath). She was also awarded the Singapore-MIT Undergraduate Research Fellowship (SMURF) in 2016.
+<p>Shi Xuan completed her B.Sc. in Chemistry under the CN Yang Scholars Programme at Nanyang Technological University (NTU), Singapore, where she undertook research in multiple laboratories, including those of Prof. Soo Han Sen, Prof. Martin Pumera and Prof. Frank Marken (University of Bath). She was also awarded the Singapore-MIT Undergraduate Research Fellowship (SMURF) in 2016.</p>
 
-She went on to pursue her Ph.D. in Chemistry at NTU under the supervision of Prof. Ling Xing Yi, supported by the Nanyang President's Graduate Scholarship. Her doctoral research focused on developing surface-enhanced Raman scattering (SERS) platforms for detection at the nano-bio interface.
+<p>She went on to pursue her Ph.D. in Chemistry at NTU under the supervision of Prof. Ling Xing Yi, supported by the Nanyang President's Graduate Scholarship. Her doctoral research focused on developing surface-enhanced Raman scattering (SERS) platforms for detection at the nano-bio interface.</p>
 
-To broaden her expertise in data-driven discovery and artificial intelligence, Shi Xuan carried out postdoctoral research in Prof. Alán Aspuru-Guzik's group at the University of Toronto under the Singapore Teaching and Academic Research Talent (START) scheme. Her postdoctoral work centered on developing vision-language models for scientific data digitalization. 
+<p>To broaden her expertise in data-driven discovery and artificial intelligence, Shi Xuan carried out postdoctoral research in Prof. Alán Aspuru-Guzik's group at the University of Toronto under the Singapore Teaching and Academic Research Talent (START) scheme. Her postdoctoral work centered on developing vision-language models for scientific data digitalization.</p>
 
-In October 2025, Shi Xuan joined the School of Chemistry, Chemical Engineering and Biotechnology at NTU as an Assistant Professor. Shi Xuan is the recipient of several awards, including the DAAD AInet Fellowship (2024), the Dr and Mrs Alex Tan Pang Kee gold medal (2023), the Goh Lai Yoong Award (2023), and the SNIC-Prof Lee Soo Ying Young Chemist Silver Award (2023).
+<p>In October 2025, Shi Xuan joined the School of Chemistry, Chemical Engineering and Biotechnology at NTU as an Assistant Professor. Shi Xuan is the recipient of several awards, including the DAAD AInet Fellowship (2024), the Dr and Mrs Alex Tan Pang Kee gold medal (2023), the Goh Lai Yoong Award (2023), and the SNIC-Prof Lee Soo Ying Young Chemist Silver Award (2023).</p>
 </div> 

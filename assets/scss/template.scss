@@ -13,6 +13,29 @@
 .navbar {
   background-color: var(--brand-purple) !important;
   border-bottom: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: auto !important;
+}
+
+// Center the navigation items container
+.navbar-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// Center individual nav items vertically and reduce padding
+.navbar-light .navbar-nav .nav-item {
+  display: flex;
+  align-items: center;
+}
+
+// Reduce nav link padding to make navbar more compact
+.navbar-light .navbar-nav .nav-link {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
 }
 
 // Navigation links - White text with elegant hover

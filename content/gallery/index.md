@@ -14,16 +14,18 @@ sections:
         </div>
 
         <div class="gallery-grid">
+
           <div class="gallery-item">
-            <img src="../album/lab-photo-1.jpg" alt="New lab space">
+            <img src="/leong-research-group/gallery/album/lab-photo-1.jpg" alt="New lab space">
           </div>
 
           <div class="gallery-item">
-            <video controls muted playsinline poster="../media/welcome.jpg">
-              <source src="../album/lab-pineapple-roll.mp4" type="video/mp4">
+            <video controls muted playsinline poster="/leong-research-group/gallery/album/pineapple-roll-screenshot.jpg">
+              <source src="/leong-research-group/gallery/album/lab-pineapple-roll.mp4" type="video/mp4">
               Your browser does not support the video tag.
             </video>
           </div>
+
         </div>
 
         <style>
@@ -35,7 +37,7 @@ sections:
           margin: 40px auto;
           padding: 0 20px;
         }
-
+        
         .gallery-item {
           position: relative;
           overflow: hidden;
@@ -48,12 +50,19 @@ sections:
           width: 100%;
           height: 100%;
           object-fit: cover;
-          border-radius: 8px;
           transition: transform 0.3s ease;
         }
 
-        .gallery-item:hover img, .gallery-item:hover video {
-          transform: scale(1.05);
+        .gallery-item:hover img {
+          transform: scale(1.1);
+        }
+
+        .gallery-item video {
+          position: relative;
+          z-index: 1;
+          pointer-events: auto;
+          cursor: default;
+          transition: transform 0.3s ease;
         }
 
         /* Tablet view - 2 columns */
@@ -63,7 +72,6 @@ sections:
             gap: 15px;
           }
         }
-
         /* Mobile view - 1 column */
         @media (max-width: 480px) {
           .gallery-grid {
