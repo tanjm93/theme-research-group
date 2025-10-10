@@ -74,7 +74,7 @@ sections:
           <div class="research-text">
             <h2 style="margin-top: 0;">Digital Electrosynthesis</h2>
             <p>
-              Organic electrosynthesis offers unique advantages such as enhanced selectivity, higher reactivity, and milder reaction conditions. Yet, reaction discovery still relies heavily on trial-and-error. Our group integrates data-driven and AI-enabled approaches to transform electrosynthesis research. Our efforts span the full research pipeline, from initial discovery and optimization to reactor design and scale-up. Key reesarch areas include: 
+              Organic electrosynthesis offers unique advantages such as enhanced selectivity, higher reactivity, and milder reaction conditions. Yet, reaction discovery still relies heavily on trial-and-error. Our group integrates data-driven and AI-enabled approaches to transform electrosynthesis research. Our efforts span the full research pipeline, from initial discovery and optimization to reactor design and scale-up. Key research areas include: 
               <br><br>
               1) discovering reaction design heuristics at scale,
               <br>
@@ -102,8 +102,8 @@ sections:
           <div class="research-text">
             <h2 style="margin-top: 0;">Mechanism-Guided Self-Driving Laboratories</h2>
             <p>
-              We develop chemistry-aware AI systems to guide rational, mechanism-driven reaction discovery and catalyst design beyond black-box predictions. Focusing on heterogeneous electrocatalysts, our research includes:<br><br>
-
+              We develop chemistry-aware AI systems to guide rational, mechanism-driven reaction discovery and catalyst design beyond black-box predictions. Focusing on heterogeneous electrocatalysts, our research includes:
+              <br><br>
               1) autonomous reasoning over multimodal experimental data, including in operando spectroscopy, electroanalysis, and product characterization, to resolve reaction pathways and kinetics,
               <br>
               2) high-throughput synthesis of model heterogeneous electrocatalysts, such as nanocrystals with tunable surface facets, to study surface-reactivity relationships,
