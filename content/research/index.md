@@ -48,10 +48,8 @@ sections:
           <div class="research-text">
             <h2 style="margin-top: 0">Data Digitalization</h2>
             <p>
-              Much of the chemical and materials literature remains locked in legacy formats, limiting AI systems' ability to leverage this knowledge. Our research focuses on converting scientific literature into structured, machine-readable forms to enable large-scale aggregation and analysis.
+              Much of the chemical and materials literature remains locked in legacy formats, limiting AI systems' ability to leverage this knowledge. Our research focuses on converting scientific literature into structured, machine-readable forms to enable large-scale aggregation and analysis. Key research foci include: 
               <br><br>
-              Key research foci include:
-              <br>
               1) extracting data from scientific graphics,
               <br>
               2) reasoning over multimodal data and inferring missing details, and
@@ -76,10 +74,8 @@ sections:
           <div class="research-text">
             <h2 style="margin-top: 0;">Digital Electrosynthesis</h2>
             <p>
-              Organic electrosynthesis offers unique advantages such as enhanced selectivity, higher reactivity, and milder reaction conditions. Yet, reaction discovery still relies heavily on trial-and-error. Our group integrates data-driven and AI-enabled approaches to transform electrosynthesis research. Our efforts span the full research pipeline, from initial discovery and optimization to reactor design and scale-up.
+              Organic electrosynthesis offers unique advantages such as enhanced selectivity, higher reactivity, and milder reaction conditions. Yet, reaction discovery still relies heavily on trial-and-error. Our group integrates data-driven and AI-enabled approaches to transform electrosynthesis research. Our efforts span the full research pipeline, from initial discovery and optimization to reactor design and scale-up. Key reesarch areas include: 
               <br><br>
-              Key areas include:
-              <br>
               1) discovering reaction design heuristics at scale,
               <br>
               2) transferring insights from conventional organic synthesis to electrochemical reactions,
@@ -106,9 +102,8 @@ sections:
           <div class="research-text">
             <h2 style="margin-top: 0;">Mechanism-Guided Self-Driving Laboratories</h2>
             <p>
-              We develop chemistry-aware AI systems to guide rational, mechanism-driven reaction discovery and catalyst design beyond black-box predictions. <br><br>
-              Focusing on heterogeneous electrocatalysts, our research includes:
-              <br>
+              We develop chemistry-aware AI systems to guide rational, mechanism-driven reaction discovery and catalyst design beyond black-box predictions. Focusing on heterogeneous electrocatalysts, our research includes:<br><br>
+
               1) autonomous reasoning over multimodal experimental data, including in operando spectroscopy, electroanalysis, and product characterization, to resolve reaction pathways and kinetics,
               <br>
               2) high-throughput synthesis of model heterogeneous electrocatalysts, such as nanocrystals with tunable surface facets, to study surface-reactivity relationships,
