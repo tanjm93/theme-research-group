@@ -20,8 +20,8 @@ sections:
           </div>
 
           <div class="gallery-item">
-            <video controls muted playsinline poster="gallery/album/pineapple-roll-screenshot.jpg">
-              <source src="gallery/album/lab-pineapple-roll.mp4" type="video/mp4">
+            <video controls muted playsinline poster="/gallery/album/pineapple-roll-screenshot.jpg">
+              <source src="/gallery/album/lab-pineapple-roll.mp4" type="video/mp4">
               Your browser does not support the video tag.
             </video>
           </div>
