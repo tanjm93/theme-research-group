@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Research
 date: 2022-10-24
 
 type: landing
@@ -58,7 +58,7 @@ sections:
               <br>
               3) establishing metrics to assess reproducibility and reusability of digitized data.
               <br><br>
-              We also co-lead the <a href="../chemia_sapiens">Chemia Sapiens Alliance</a> to advance collaborative efforts in unifying and democratizing chemical and materials knowledge.
+              #We also co-lead the <a href="../chemia_sapiens">Chemia Sapiens Alliance</a> to advance collaborative efforts in unifying and democratizing chemical and materials knowledge.
             </p>
           </div>
         </div>
