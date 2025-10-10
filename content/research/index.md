@@ -76,7 +76,7 @@ sections:
           <div class="research-text">
             <h2 style="margin-top: 0;">Digital Electrosynthesis</h2>
             <p>
-              Organic electrosynthesis offers unique advantages such as enhanced selectivity, higher reactivity, and milder reaction conditions. Yet, reaction discovery still relies heavily on trial-and-error. Our group integrates data-driven and AI-enabled approaches to transform electrosynthesis research.
+              Organic electrosynthesis offers unique advantages such as enhanced selectivity, higher reactivity, and milder reaction conditions. Yet, reaction discovery still relies heavily on trial-and-error. Our group integrates data-driven and AI-enabled approaches to transform electrosynthesis research. Our efforts span the full research pipeline, from initial discovery and optimization to reactor design and scale-up.
               <br><br>
               Key areas include:
               <br>
@@ -88,7 +88,6 @@ sections:
               <br>
               4) predicting optimal electrosynthesis reaction conditions.
               <br><br>
-              Our efforts span the full research pipeline, from initial discovery and optimization to reactor design and scale-up.
             </p>
           </div>
         </div>
