@@ -16,7 +16,7 @@ sections:
         <div class="gallery-grid">
 
           <div class="gallery-item">
-            <img src="/leong-research-group/gallery/album/lab-photo-1.jpg" alt="New lab space">
+            <img src="/gallery/album/lab-photo-1.jpg" alt="New lab space">
           </div>
 
           <div class="gallery-item">
