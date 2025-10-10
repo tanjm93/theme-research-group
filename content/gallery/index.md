@@ -20,7 +20,7 @@ sections:
           </div>
 
           <div class="gallery-item">
-            <video controls muted playsinline poster="/leong-research-grou/gallery/album/pineapple-roll-screenshot.jpg">
+            <video controls muted playsinline poster="/leong-research-group/gallery/album/pineapple-roll-screenshot.jpg">
               <source src="/leong-research-group/gallery/album/lab-pineapple-roll.mp4" type="video/mp4">
               Your browser does not support the video tag.
             </video>
