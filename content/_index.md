@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         <div style="font-size: 1rem;">
-        We are a  multidisciplinary research team that works at the interface of chemistry, computer science, data science, artificial intelligence, and automation to develop intelligent, adaptive tools and systems that enable autonomous reaction discovery and informatics.
+        We are a  multidisciplinary research team at Nanyang Technological University's School of Chemistry, Chemical Engineering and Biotechnology (NTU, CCEB) in Singapore. We work at the interface of chemistry, computer science, data science, artificial intelligence, and automation to develop intelligent, adaptive tools and systems that enable autonomous reaction discovery and informatics.
         </div>
 
   - block: markdown
