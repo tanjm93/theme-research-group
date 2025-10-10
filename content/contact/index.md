@@ -13,7 +13,7 @@ sections:
 
         Interested undergraduates and prospective Ph.D. students are welcome to email Shi Xuan ([shixuan.leong@ntu.edu.sg](mailto:shixuan.leong@ntu.edu.sg)).    
 
-    **See also:** [NTU main page](https://www.ntu.edu.sg/) | [CCEB main page](https://www.ntu.edu.sg/cceb) | [NPGS](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs) | [NTU Research Scholarship](https://www.ntu.edu.sg/nie/admissions/graduate-education/scholarships-awards/nanyang-technological-university-research-scholarship) | [SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) | [A*STAR Graduate Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore)
+        **See also:** [NTU main page](https://www.ntu.edu.sg/) | [CCEB main page](https://www.ntu.edu.sg/cceb) | [NPGS](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs) | [NTU Research Scholarship](https://www.ntu.edu.sg/nie/admissions/graduate-education/scholarships-awards/nanyang-technological-university-research-scholarship) | [SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) | [A*STAR Graduate Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore)
     design:
       columns: '1'
       spacing:
