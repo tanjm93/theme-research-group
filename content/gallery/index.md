@@ -16,12 +16,12 @@ sections:
         <div class="gallery-grid">
 
           <div class="gallery-item">
-            <img src="/theme-research-group/gallery/album/lab-photo-1.jpg" alt="New lab space">
+            <img src="/leong-research-group/gallery/album/lab-photo-1.jpg" alt="New lab space">
           </div>
 
           <div class="gallery-item">
             <video controls muted playsinline poster="/leong-research-group/gallery/album/pineapple-roll-screenshot.jpg">
-              <source src="/theme-research-group/gallery/album/lab-pineapple-roll.mp4" type="video/mp4">
+              <source src="/leong-research-group/gallery/album/lab-pineapple-roll.mp4" type="video/mp4">
               Your browser does not support the video tag.
             </video>
           </div>
