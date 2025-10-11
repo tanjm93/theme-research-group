@@ -66,7 +66,7 @@ sections:
       title: "We are recruiting! 👩🏻‍🔬🧑🏻‍🔬"
       text: |
         <div style="text-align: center; font-size: 1rem; padding: 20px;">
-        We're recruiting graduate students for the Aug 2026 intake. We also welcome applications from undergraduate researchers and postdocs to start as early as spring 2026! Learn more <a href="contact">here</a>! 
+        We are recruiting graduate students for the Aug 2026 intake. We also welcome applications from undergraduate researchers and postdocs to start as early as spring 2026! Learn more <a href="contact">here</a>! 
         </div>
     design:
       columns: '1'
